@@ -67,6 +67,6 @@ If you were to open `error_summary_output_file.json` you might see something lik
 
 The intent of this to allow you to make remediating errors easier:
 * Open the migration file
-* In the instance, search for "5057992261799" - which will take you directly to the row of the customer
+* In this instance, search for "5057992261799" - which will take you directly to the row of the customer
 * You can then search for "136977932" - which corresponds to the specific subscription within that row
 * Finally, find the field or fields referenced by the error summary above and modify accordingly
